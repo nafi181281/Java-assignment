@@ -38,7 +38,7 @@ This repository contains basic Java programs for practice and learning purposes.
 
 **Created by:** Nafi Ul Sheak  
 📧 **Email:** nafiulsheak@gmail.com  
-🌐 **GitHub:** [maruf0x01](https://github.com/nafi181281)
+🌐 **GitHub:** [nafi181281](https://github.com/nafi181281)
 
 ---
 
